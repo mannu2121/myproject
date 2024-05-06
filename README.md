@@ -71,7 +71,7 @@ actionable insights into various aspects of HR, including attrition rates, emplo
 
                                      ## How to Use
 1. **Clone this repository to your local machine.**
-2. **Open the `` file in Power BI.**
+2. **Open the `path/to/hr analytics.pbix` file in Power BI.**
 3. **Explore the dashboard by interacting with different visualizations.**
 4. **Gain insights, analyze trends, and derive actionable recommendations for HR strategy.**
 5. **Use drill down to get insights for the next page**
